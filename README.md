@@ -14,7 +14,6 @@ src="https://camo.githubusercontent.com/5ad7c827775e06f7567148b4328e2b901fbe853c
 	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=guzcv99&show_icons=true&theme=dark"/>
 	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzcv99&layout=compact&theme=dark"/>
 
-
   ## Techs & Tools
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,4 +27,4 @@ src="https://camo.githubusercontent.com/5ad7c827775e06f7567148b4328e2b901fbe853c
  ![Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
- </div><br>
+</div>
