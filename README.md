@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi there 👋
+## Hello there, I'm Zagnoli 👋
 
 Contact me on:\
 <a href="https://www.linkedin.com/in/gustavozagnoli/">
@@ -8,7 +8,7 @@ Contact me on:\
 
 <div>
 	<img height="148em" src="https://github-readme-stats.vercel.app/api?username=guzcv99&show_icons=true&theme=dark"/>
-	<img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzcv99&layout=compact&theme=dark"/><br><br>
+	<img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzcv99&layout=compact&theme=dark"/>
 </div><br>
 
   ## Techs & Tools
