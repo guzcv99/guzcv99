@@ -20,7 +20,7 @@ Contact me on:\
  ![Airflow](https://img.shields.io/badge/Airflow-D24939?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)\
  ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=232F3E&logo=MySql&logoColor=FFFFFF&label=)
  ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
- ![PySpark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+ ![PySpark](https://img.shields.io/badge/PySpark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
  ![Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
