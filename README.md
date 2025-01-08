@@ -3,12 +3,7 @@
 ## Hello there, I'm Zagnoli 👋
 
 Contact me on:\
-<a href="https://www.linkedin.com/in/gustavozagnoli/">
-<img 
-data-canonical-src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0061C3" 
-src="https://camo.githubusercontent.com/5ad7c827775e06f7567148b4328e2b901fbe853cbd0fb5c5e6aefee92276b847/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3143314331433f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d303036314333266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f736f706869616770"/>
-</a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/laura-grassi](https://www.linkedin.com/in/gustavozagnoli/))
 
 <div align="center">
 	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=guzcv99&show_icons=true&theme=dark"/>
