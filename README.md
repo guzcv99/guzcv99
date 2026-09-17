@@ -5,10 +5,6 @@
 Contact me on:\
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/laura-grassi](https://www.linkedin.com/in/gustavozagnoli/))
 
-<div align="center">
-	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=guzcv99&show_icons=true&theme=dark"/>
-	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzcv99&layout=compact&theme=dark"/>
-
   ## Techs & Tools
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
