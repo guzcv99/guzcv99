@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hello there, I'm Zagnoli 👋
+## Hello there, I'm Gustavo 👋
 
 Contact me on:\
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/laura-grassi](https://www.linkedin.com/in/gustavozagnoli/))
